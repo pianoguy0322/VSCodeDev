@@ -16,6 +16,7 @@ static uint64_t GetHeight(){
 static void GetInput(){
 	scanf("%d %d %d", &tip, &slope, &body);
 	scanf("%llu", &level);
+	return;
 }
 
 int main(){
